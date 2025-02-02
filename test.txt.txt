@@ -1,5 +1,6 @@
 içeriği githubdan düzenledim
 asıl gelistirici tekrar duzenledi 
 ben de ayni satira yeni bir satir ekledim
+yeni bir satir ekledim.
 ikinci geliştirici tekrar düzenledi
 
